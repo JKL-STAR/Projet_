@@ -1,2 +1,3 @@
 # Projet_
-Knn
+def knn(x):
+  return(x)
